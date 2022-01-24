@@ -1,0 +1,4 @@
+name = "HelloWorld"
+uuid = "52c1c11e-6e25-478a-b4c1-513bd3528d26"
+authors = ["C.Brenhin Keller <cbkeller@dartmouth.edu>"]
+version = "0.1.0"
